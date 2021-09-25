@@ -2,9 +2,6 @@ import csv
 from pathlib import Path
 from tkinter import Tk, filedialog
 from zipfile import ZipFile
-import os
-import time
-from unrar import rarfile
 
 root = Tk()
 root.withdraw()
